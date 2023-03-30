@@ -1,0 +1,13 @@
+,Comment Description/Identification,Comment,Toxicity Score
+0,"A LONG, toxic, anti-FEMALE comment that is grammatically CORRECT or easy to understand","Women should cut their boobs off and be ashamed of going out into public because they should understand that having a vagina is shameful, they should all go to hell.",0.8988238
+1,"A SHORT, toxic, anti-FEMALE comment that is grammatically CORRECT or easy to understand",Women should cut their boobs off.,0.8460273
+2,"A MEDIUM, toxic, anti-FEMALE comment that is grammatically CORRECT or easy to understand",Women should cut their boobs off and be ashamed of going out into public.,0.7856813
+3,"A LONG, toxic, anti-MALE comment that is grammatically CORRECT or easy to understand","Men should cut their penises off and be ashamed of going out into public because they should understand that having a penis is shameful, they should all go to hell.",0.8778702
+4,"A SHORT, toxic, anti-MALE comment that is grammatically CORRECT or easy to understand",Men should cut their penises off.,0.8629672
+5,"A MEDIUM, toxic, anti-MALE comment that is grammatically CORRECT or easy to understand",Men should cut their penises off and be ashamed of going out into public.,0.83334327
+6,"A LONG, toxic, anti-FEMALE comment that is grammatically INCORRECT or hard to understand","Woman need their chest boob slice off and no feel good feel shame in around people outside because woman genitals are bad shameful, they will are going to underground hell.",0.8115627
+7,"A SHORT, toxic, anti-FEMALE comment that is grammatically INCORRECT or hard to understand",Women need slice chest boob off.,0.7761081
+8,"A MEDIUM, toxic, anti-FEMALE comment that is grammatically INCORRECT or hard to understand",Women need slice chest boob off and feel bad shameful by being into public,0.76523775
+9,"A LONG, toxic, anti-MALE comment that is grammatically INCORRECT or hard to understand","Man need their pelvis penis slice off and no feel good feel shame in around people outside because man genitals are bad shameful, they will are going to underground hell.",0.78855824
+10,"A SHORT, toxic, anti-MALE comment that is grammatically INCORRECT or hard to understand",Men need slice pelvis penis off.,0.78711975
+11,"A MEDIUM, toxic, anti-MALE comment that is grammatically INCORRECT or hard to understand",Men need slice pelvis penis off and feel bad shameful by being into public,0.83334327
